@@ -6,10 +6,7 @@
 }
 
 /* apply styles to <header> */
-header {
-    padding: 20px 35px;
-    background-color: #39a6b2;
-  }
+
 
 header h1 {
     font-weight: bold;
@@ -24,7 +21,7 @@ header a {
 }
 
 body {
-    /* more on this crazy alphanumerical value in a minite! */
+    
     color: #39a6b2;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -84,6 +81,7 @@ section {
     background-size: cover;
     background-position: center;
     position: relative;
+    
 }
 
 
@@ -92,6 +90,8 @@ section {
 .hero-form {
     border: 3px solid #024e76;
     background-color: #fce138;
+    opacity: 0.7;
+    border-radius: 25px;
     padding: 20px;
     width: 500px;
     color: #024e76;
